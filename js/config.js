@@ -20,7 +20,7 @@ window.APP_CONFIG = {
   // Si se rellena, los QR llevan un enlace directo: al escanearlos con la cámara
   // normal del móvil se abre la ficha del material. Si se deja vacío, el QR solo
   // contiene el código (MAT-0001) y se lee desde el escáner de la app.
-  APP_URL: "",
+  APP_URL: "https://juafaucaing-crypto.github.io/almacen/",
 
   NOMBRE_ALMACEN: "Almacén UTE",
 };
